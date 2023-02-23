@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-five/static/css/main.699f824e.css",
+    "main.js": "/react-five/static/js/main.1e3ca022.js",
+    "static/js/787.71a70df1.chunk.js": "/react-five/static/js/787.71a70df1.chunk.js",
+    "static/media/free-icon-lock.png": "/react-five/static/media/free-icon-lock.6e91eee52c41b5bb3102.png",
+    "index.html": "/react-five/index.html",
+    "main.699f824e.css.map": "/react-five/static/css/main.699f824e.css.map",
+    "main.1e3ca022.js.map": "/react-five/static/js/main.1e3ca022.js.map",
+    "787.71a70df1.chunk.js.map": "/react-five/static/js/787.71a70df1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699f824e.css",
+    "static/js/main.1e3ca022.js"
+  ]
+}
